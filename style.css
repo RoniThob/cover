@@ -19,7 +19,7 @@
 
 @font-face {
     font-family: 'Friz Quadrata';
-   src: url('/fontfriz.woff');
+   src: url('fontfriz.woff');
 }
 
 html {
